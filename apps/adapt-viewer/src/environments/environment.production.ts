@@ -1,0 +1,11 @@
+export const environment = {
+  envLabel: 'Prod',
+  contentRoot: 'assets/text/wa',
+  contentFileName: 'viewer-content-text.json',
+  appDomain: 'uat-viewer.adaptdata.org',  
+  API_URL: 'https://v3yun4i0nc.execute-api.us-east-1.amazonaws.com/uat/',
+  logoPath: 'assets/shared/logos/states/wa',
+  logoExtension: 'png',
+  logoStyleClass: 'width-card',
+  copyrightText: 'The State of Washington.',
+};
