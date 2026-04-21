@@ -1,9 +1,9 @@
 export const environment = {
   envLabel: 'Prod',
-  contentRoot: 'assets/text/generic',
+  contentRoot: 'assets/text/wa',
   contentFileName: 'viewer-content-text.json',
-  appDomain: 'uat-viewer.adaptdata.org',  
-  API_URL: 'https://v3yun4i0nc.execute-api.us-east-1.amazonaws.com/uat/',
+  appDomain: 'ospi-wa-viewer.adaptdata.org',  
+  API_URL: 'https://5rbvfcdybe.execute-api.us-east-1.amazonaws.com/wab-prod/',
   logoPath: 'assets/shared/logos/states/wa',
   logoExtension: 'png',
   logoStyleClass: 'width-card',
