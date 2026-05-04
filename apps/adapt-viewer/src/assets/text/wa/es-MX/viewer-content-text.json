@@ -47,34 +47,44 @@
         "description": "Encontrar recursos valiosos y apoyo para niños con discapacidad. Estos enlaces ofrecen información, promoción y asistencia adaptadas a sus necesidades.",
         "links": [
           {
-            "name": "Marco de transformación de sistemas para preescolares equitativos (STEP Award with Data) - Tendencias infantiles",
-            "description": "El Marco de Transformación del Sistema para Preescolares Equitativos (STEP Forward with Data) está diseñado para ayudar a los líderes del sistema preescolar a utilizar los datos para promover una mayor equidad en cada paso del sistema preescolar. Al usar este Marco, los líderes comprenderán mejor las experiencias de los niños, las familias o los miembros de la fuerza laboral dentro de sus sistemas para comenzar a identificar posibles inequidades y examinar las causas profundas que podrían abordarse.",
-            "link": "https://www.childtrends.org/publications/system-transformation-equitable-preschools-step-forward-data-framework"
+            "name": "Oficina del Superintendente de Instrucción Pública (OSPI) de Educación Especial",
+            "description": "Aproximadamente 165,000 estudiantes elegibles en el estado de Washington reciben educación especial y servicios relacionados. OSPI cumple con los requisitos de la Ley federal de Educación de Individuos con Discapacidades (IDEA), que garantiza que todos los niños con discapacidad tengan acceso a una educación pública apropiada y gratuita.",
+            "link": "https://ospi.k12.wa.us/student-success/special-education"
           },
           {
             "name": "Centro de Datos IDEA (IDC)",
-            "description": "El Centro de Datos IDEA (IDC) apoya a los estados mientras trabajan para mejorar la recopilación y el reporting de sus datos IDEA y a medida que analizan y utilizan estos datos para realizar mejoras programáticas.",
+            "description": "El Centro de Datos IDEA (IDC) apoya a los estados mientras trabajan para mejorar la recopilación y reporte de sus datos IDEA y mientras analizan y utilizan estos datos para realizar mejoras programáticas.",
             "link": "https://ideadata.org/"
           },
           {
-            "name": "Centro para la Integración de Datos IDEA (CIID)",
-            "description": "El Centro para la Integración de Datos IDEA (CIID) brinda asistencia técnica a las agencias educativas estatales para aumentar la capacidad de reportar datos de alta calidad requeridos bajo la Ley de Educación de Individuos con Discapacidades (IDEA) Parte B Secciones 616 y 618.",
-            "link": "https://ciidta.communities.ed.gov/#program"
+            "name": "Participación y orientación de la familia",
+            "description": "Estas páginas están dedicadas a proporcionar a los estudiantes, familias y miembros de la comunidad información sobre educación especial, para asegurar que los estudiantes y las familias conozcan sus derechos, responder preguntas que puedan tener sobre cómo funciona el proceso y compartir formas en que los socios pueden proporcionar información y participar.",
+            "link": "https://ospi.k12.wa.us/student-success/special-education/family-engagement-and-guidance"
           },
           {
-            "name": "El Centro de Sistemas de Datos de la Primera Infancia (DaSy) IDEA",
-            "description": "El Centro DaSy es un centro nacional de asistencia técnica que trabaja con los estados para apoyar los programas estatales de intervención temprana y educación especial en la primera infancia de IDEA en la construcción de sistemas de datos de alta calidad y el uso de datos para mejorar los resultados para los niños pequeños con discapacidades y sus familias.",
-            "link": "https://dasycenter.org/"
+            "name": "Consejo de Normas para Educadores Profesionales (PESB)",
+            "description": "Trabajamos para garantizar que la fuerza laboral educadora de Washington esté compuesta por educadores profesionales y con mentalidad equitativa que satisfagan las diversas necesidades de los estudiantes, las escuelas y los distritos. Trabajamos hacia esta visión mediante la creación de políticas innovadoras que fortalezcan la calidad del educador, apoyen el desarrollo de la fuerza laboral y promuevan caminos equitativos hacia la profesión.",
+            "link": "https://www.pesb.wa.gov/"
           },
           {
-            "name": "Centro de Asistencia Técnica para la Primera Infancia (ECTA)",
-            "description": "El Centro ECTA apoya los programas estatales IDEA Parte C y Parte B, Sección 619 en el desarrollo de sistemas estatales y locales de alta calidad, efectivos y sostenibles, para implementar acceso equitativo, servicios y apoyos para los niños con discapacidades y sus familias que den como resultado resultados positivos no relacionados con la raza, el idioma, los ingresos u otros datos demográficos.",
-            "link": "https://ectacenter.org/"
+            "name": "Red de Asistencia Técnica sobre Prácticas Inclusivas (IPTN)",
+            "description": "El IPTN apoya a las escuelas para reducir las prácticas excluyentes y los sistemas segregados en las escuelas de Washington, especialmente para grupos estudiantiles que frecuentemente son excluidos de las aulas de educación general. Visite la página del IPTN para obtener más información y acceder a una gran red de proveedores de asistencia técnica y desarrollo profesional del estado de Washington que pueden apoyar a los distritos para implementar prácticas inclusivas.",
+            "link": "https://ospi.k12.wa.us/student-success/support-programs/inclusionary-practices-technical-assistance-network-iptn"
           },
           {
             "name": "Protección de la privacidad de los estudiantes - Centro de Asistencia Técnica de Privacidad (PTAC)",
             "description": "El Centro de Asistencia Técnica de Privacidad (PTAC) es un recurso único para que las partes interesadas de la educación aprendan sobre privacidad, confidencialidad y prácticas de seguridad relacionadas con los sistemas de datos a nivel de los estudiantes y otros usos de los datos de los estudiantes.",
             "link": "https://studentprivacy.ed.gov/"
+          },
+          {
+            "name": "Educación Especial de la Primera Infancia",
+            "description": "Esta página web contiene recursos de asistencia técnica para el personal de educación especial, administradores y familias de niños de preescolar que reciben servicios de educación especial. Los recursos se organizan de acuerdo a los tres indicadores federales de primera infancia del Plan Estatal de Desempeño. El Plan Estatal de Desempeño es el plan de Washington para mejorar el desempeño del distrito escolar en los indicadores del programa requeridos por el gobierno federal.",
+            "link": "https://ospi.k12.wa.us/student-success/special-education/early-childhood-special-education"
+          },
+          {
+            "name": "El Centro de Sistemas de Datos de la Primera Infancia IDEA (DaSy)",
+            "description": "El Centro DaSy es un centro nacional de asistencia técnica que trabaja con los estados para apoyar los programas estatales de intervención temprana y educación especial en la primera infancia de IDEA en la construcción de sistemas de datos de alta calidad y el uso de datos para mejorar los resultados para niños pequeños con discapacidad y sus familias.",
+            "link": "https://dasycenter.org/"
           }
         ]
       },
