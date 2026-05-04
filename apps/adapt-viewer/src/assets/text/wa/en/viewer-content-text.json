@@ -47,9 +47,9 @@
         "description": "Find valuable resources and support for children with disabilities. These links offer information, advocacy, and assistance tailored to your needs.",
         "links": [
           {
-            "name": "System Transformation for Equitable Preschools (STEP Forward with Data) Framework - Child Trends",
-            "description": "The System Transformation for Equitable Preschools (STEP Forward with Data) Framework is designed to help preschool system leaders use data to promote greater equity at every step of the preschool system. In using this Framework, leaders will better understand the experiences of children, families, or workforce members within their systems to begin identifying potential inequities and examine root causes that could be addressed.",
-            "link": "https://www.childtrends.org/publications/system-transformation-equitable-preschools-step-forward-data-framework"
+            "name": "Office of Superintendent of Public Instruction (OSPI) Special Education",
+            "description": "Approximately 165,000 eligible students in Washington state receive special education and related services. OSPI fulfills the requirements of the federal Individuals with Disabilities Education Act (IDEA), which ensures all children with disabilities have access to a free appropriate public education.",
+            "link": "https://ospi.k12.wa.us/student-success/special-education"
           },
           {
             "name": "IDEA Data Center (IDC)",
@@ -57,24 +57,34 @@
             "link": "https://ideadata.org/"
           },
           {
-            "name": "Center for Integration of IDEA Data (CIID)",
-            "description": "The Center for the Integration of IDEA Data (CIID) provides technical assistance to state education agencies to increase the capacity to report high quality data required under the Individuals with Disabilities Education Act (IDEA) Part B Sections 616 and 618.",
-            "link": "https://ciidta.communities.ed.gov/#program"
+            "name": "Family Engagement and Guidance",
+            "description": "These pages are dedicated to providing students, families, and community members with information about special education, to ensuring that students and families know about their rights, answering questions they may have about how the process works, and sharing ways that partners may provide input and get involved.",
+            "link": "https://ospi.k12.wa.us/student-success/special-education/family-engagement-and-guidance"
           },
           {
-            "name": "The Center for IDEA Early Childhood Data Systems (DaSy)",
-            "description": "The DaSy Center is a national technical assistance center that works with states to support IDEA early intervention and early childhood special education state programs in building high quality data systems and using data to improve results for young children with disabilities and their families.",
-            "link": "https://dasycenter.org/"
+            "name": "Professional Educator Standards Board (PESB)",
+            "description": "We work to ensure Washington's educator workforce is composed of equity-minded, professional educators who meet the diverse needs of students, schools, and districts. We work towards this vision by creating innovative policies that strengthen educator quality, support workforce development, and advance equitable pathways into the profession.",
+            "link": "https://www.pesb.wa.gov/"
           },
           {
-            "name": "Early Childhood Technical Assistance Center (ECTA)",
-            "description": "The ECTA Center supports state IDEA Part C and Part B, Section 619 programs in developing high-quality, effective, and sustainable state and local systems, to implement equitable access, services, and supports for children with disabilities and their families that result in positive outcomes not related to race, language, income, or other demographics.",
-            "link": "https://ectacenter.org/"
+            "name": "Inclusionary Practices Technical Assistance Network (IPTN)",
+            "description": "The IPTN supports schools to reduce exclusionary practices and segregated systems in Washington schools, especially for student groups who are frequently excluded from general education classrooms. Visit the IPTN's page to learn more and access a large network of Washington state technical assistance and professional development providers who can support districts to implement inclusionary practices.",
+            "link": "https://ospi.k12.wa.us/student-success/support-programs/inclusionary-practices-technical-assistance-network-iptn"
           },
           {
             "name": "Protecting Student Privacy - Privacy Technical Assistance Center (PTAC)",
             "description": "The Privacy Technical Assistance Center (PTAC) is a one-stop resource for education stakeholders to learn about privacy, confidentiality, and security practices related to student-level data systems and other uses of student data.",
             "link": "https://studentprivacy.ed.gov/"
+          },
+          {
+            "name": "Early Childhood Special Education",
+            "description": "This web page contains technical assistance resources for special education staff, administrators, and families of preschool children who receive special education services. The resources are organized according to the three federal early childhood indicators of the State Performance Plan. The State Performance Plan is Washington's plan for improving school district performance on the federally required program indicators.",
+            "link": "https://ospi.k12.wa.us/student-success/special-education/early-childhood-special-education"
+          },
+          {
+            "name": "The Center for IDEA Early Childhood Data Systems (DaSy)",
+            "description": "The DaSy Center is a national technical assistance center that works with states to support IDEA early intervention and early childhood special education state programs in building high quality data systems and using data to improve results for young children with disabilities and their families.",
+            "link": "https://dasycenter.org/"
           }
         ]
       },
